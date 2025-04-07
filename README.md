@@ -1,5 +1,5 @@
 # 👋 Hey, I'm Prathama Shrestha
-just a curious mind building things with code and chasing ideas that excite me.
+just a curious mind building things with code and chasing ideas that excite me.<br>
 🎨🤖 from clean UIs to messy models, i’m in<br>🤝 open to cool ideas, convos, and random DMs<br>📚 part-time cog sci nerd, full-time observer<br>🌱 work in progress, always exploring and evolving
 
 ## 🌐 Socials
